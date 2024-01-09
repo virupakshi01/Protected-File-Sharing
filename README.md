@@ -23,11 +23,11 @@ Select file path and enter password and generate link
 
 ### Link Generating
 Click link to download 
-![alt text](https://github.com/[virupakshi01]/[Protected-File-Sharing]/blob/[main]/2.jpg?raw=true)
+![alt text](Images/2.png)
 
 ### Verifying and Downloading
 If file has password verify and download
-![alt text](https://github.com/[virupakshi01]/[Protected-File-Sharing]/blob/[main]/3.jpg?raw=true)
+![alt text](Images/3.png)
 
 
 ## How To Use
