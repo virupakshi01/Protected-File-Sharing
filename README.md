@@ -18,7 +18,7 @@
 ### Landing Page
 Select file path and enter password and generate link
 
-![alt text](https://github.com/[virupakshi01]/[Protected-File-Sharing]/blob/[main]/1.jpg?raw=true)
+![alt text](https://github.com/[virupakshi01]/[Protected-File-Sharing]/Images/[main]/1.jpg?raw=true)
 
 
 ### Link Generating
