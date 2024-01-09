@@ -36,10 +36,10 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/amitmerchant1990/electron-markdownify
+$ git clone https://github.com/virupakshi01/Protected-File-Sharing
 
 # Go into the repository
-$ cd electron-markdownify
+$ cd Protected-File-Sharing
 
 # Install dependencies
 $ npm install
@@ -72,8 +72,6 @@ To fix a bug or enhance an existing module, follow these steps:
 
 
 
-<-## [License](https://github.com/iharsh234/WebApp/blob/master/LICENSE.md)
 
-MIT © [Harsh Vijay ](https://github.com/virupakshi01)->
 
 
